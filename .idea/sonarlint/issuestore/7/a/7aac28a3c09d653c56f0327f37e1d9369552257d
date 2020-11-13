@@ -1,0 +1,16 @@
+
+]	java:S125("<This block of commented-out lines of code should be removed.(ô¯òÄıÿÿÿÿ8Éº³Ü.
+‚
+java:S19891"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(Í†»Öúÿÿÿÿ8ªƒÜ.
+|
+java:S1989 "ZHandle the following exception that could be thrown by "parseLong": NumberFormatException.(¨À¶ıÿÿÿÿ8ÇÂÜÜ.
+Z
+java:S1128">Remove this unused import 'javax.servlet.ServletOutputStream'.(©ãï8†‘ÎÜ.
+m
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8®†¦Ü.
+
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(Ó‹ÊÍüÿÿÿÿ8Œ«ä‚Ü.
+X
+java:S1874""6Remove this use of "toLocaleString"; it is deprecated.(¤Ì¶Ïıÿÿÿÿ8‘çáÜ.
+E
+java:S11850"(Remove this method to simply inherit it.(üª¼í8ªƒÜ.
